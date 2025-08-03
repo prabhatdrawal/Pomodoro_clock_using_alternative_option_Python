@@ -16,8 +16,10 @@ List out the specific objectives to solve your problem. Do not write general obj
 • To enhance user focus with ambient animations and audio feedback.
 • To provide a clean, customizable, and resolution-independent interface.
 
-<img width="511" height="621" alt="Screenshot 2025-08-03 at 10 56 58" src="https://github.com/user-attachments
+### function Usage
+
+<img width="511" height="621" alt="Screenshot 2025-08-03 at 10 56 58" src="https://github.com/user-attachments/assets/9b3ed4ec-87f5-4308-a79a-663319cd5451" />
+
 <img width="494" height="261" alt="Screenshot 2025-08-03 at 10 57 40" src="https://github.com/user-attachments/assets/bd8c83d4-c8f8-4616-86d2-47eba4acec32" />
-/assets/9b3ed4ec-87f5-4308-a79a-663319cd5451" />
 
 
